@@ -13,42 +13,42 @@ I have put in countless hours of hard work and effort to create this subdirector
 - Tips and tricks to help you avoid common pitfalls and debug your scripts with ease
 
 ## Tasks
-**0. Where am I?** <br>
+**0. [Where am I?](./0-current_working_directory)** <br>
 Write a script that prints the absolute path name of the current working directory.
 
-**1. What’s in there?** <br>
+**1. [What’s in there?](./1-listit)** <br>
 Display the contents list of your current directory.
 
-**2. There is no place like home** <br>
+**2. [There is no place like home](./2-bring_me_home)** <br>
 Write a script that changes the working directory to the user’s home directory.
 * You are not allowed to use any shell variables
 
-**3. The long format** <br>
+**[3. The long format](./3-listfiles)** <br>
 Display current directory contents in a long format
 
-**4. Hidden files** <br>
+**4. [Hidden files](./4-listmorefiles]** <br>
 Display current directory contents, including hidden files (starting with .). Use the long format.
 
-**5. I love numbers** <br>
+**5. [I love numbers](./5-listfilesdigitonly)** <br>
 Display current directory contents.
 * Long format
 * with user and group IDs displayed numerically
 * And hidden files (starting with .)
 
-**6. Welcome** <br>
+**6. [Welcome](./6-firstdirectory)** <br>
 Create a script that creates a directory named ``my_first_directory`` in the ``/tmp/`` directory.
 
-**7. Betty in my first directory** <br>
+**7. [Betty in my first directory](./7-movethatfile)** <br>
 Move the file ``betty`` from ``/tmp/`` to ``/tmp/my_first_directory``.
 
-**8. Bye bye Betty** <br>
+**8. [Bye bye Betty](./8-firstdelete)** <br>
 Delete the file ``betty``.
 * The file ``betty`` is in ``/tmp/my_first_directory``
 
-**9. Bye bye My first directory** <br>
+**9. [Bye bye My first directory](./9-firstdirdeletion)** <br>
 Delete the directory ``my_first_directory`` that is in the ``/tmp directory``.
 
-**10. Back to the future** <br>
+**10. [Back to the future](./10-back)** <br>
 Write a script that changes the working directory to the previous one.
 **11. Lists** <br>
 Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the ``/boot`` directory (in this order), in long format.
