@@ -1,4 +1,7 @@
-# 0x01. Shell, permissions <img align="right" width="300" height="200" src="https://github.com/yiradesat/alx-pre_course/blob/master/images/permissions-1.png">
+<img align="right" width="315" height="240" src="https://github.com/yiradesat/alx-pre_course/blob/master/images/permissions-1.png">
+ 
+# 0x01. Shell, permissions
+
 ![GitHub stars](https://img.shields.io/github/stars/yiradesat/alx-system_engineering-devops?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/yiradesat/alx-system_engineering-devops?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/yiradesat/alx-system_engineering-devops?style=flat-square)
 
 Hello and welcome to my repository dedicated to shell permissions! As a student in the ALX software engineering program, I have had the opportunity to dive into the depths of the shell environment and learn about the various aspects of file and directory permissions, user and group ownership, and special permissions. 
