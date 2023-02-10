@@ -7,10 +7,12 @@ I have put in countless hours of hard work and effort to create this subdirector
 
 ## Here's what you can expect from this subdirectory:
 
-- An introduction to shell scripting and the basics of the shell
-- Step-by-step tutorials that will guide you through the process of automating tasks
-- Practical exercises that will help you apply your new skills and reinforce your learning
-- Tips and tricks to help you avoid common pitfalls and debug your scripts with ease
+* A firsthand look at the concepts and practices of shell basics that I learned during my time as a student in the ALX software engineering program.
+* A collection of shell scripts and commands that cover different aspects of shell, including working with the current working directory, listing files, and more.
+* A chance to see how I applied the theories and concepts I learned in a practical setting.
+* A wealth of information and resources that you can use to further your own understanding of shell and improve your own shell scripting skills.
+
+In short, this subdirectory is a comprehensive and personal look at the world of shell basics, and I'm thrilled to share it with you. Whether you're just starting out on your own journey with shell or you're looking for a resource to deepen your existing knowledge, this subdirectory is the perfect place to start.
 
 ## Tasks
 **0. [Where am I?](./0-current_working_directory)** <br>
