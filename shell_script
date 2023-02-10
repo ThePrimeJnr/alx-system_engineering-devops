@@ -1,5 +1,0 @@
-#!/bin/bash
-read -p "File name: " name
-echo '#!/bin/bash' > $name
-chmod u+x $name
-emacs -nw $name
