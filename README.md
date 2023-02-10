@@ -1,7 +1,7 @@
 # ALX System Engineering & DevOps
 ![GitHub stars](https://img.shields.io/github/stars/yiradesat/alx-system_engineering-devops?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/yiradesat/alx-system_engineering-devops?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/yiradesat/alx-system_engineering-devops?style=flat-square)
 
-Welcome to the ALX System Engineering & DevOps repository! This repository is designed to provide hands-on experience in various areas of system engineering and DevOps.
+Welcome to my ALX System Engineering & DevOps repository! This repository is designed to provide hands-on experience in various areas of system engineering and DevOps.
 
 ## What is System Engineering & DevOps?
 System Engineering & DevOps is a process that focuses on the design, development, and operation of large, complex systems. It involves a collaborative approach to the management of software development, deployment, and operations. In this repository, you will find a wide range of practical exercises, tools, and techniques that will help you gain a deeper understanding of system engineering and DevOps.
