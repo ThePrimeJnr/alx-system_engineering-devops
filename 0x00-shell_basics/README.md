@@ -1,4 +1,7 @@
-# 0x00 Shell, basics <img align="right" width="200" height="200" src="https://github.com/yiradesat/alx-pre_course/blob/master/images/bash-removebg-preview.png">
+<img align="right" src="https://github.com/yiradesat/alx-pre_course/blob/master/images/bash-removebg-preview.png">
+
+# 0x00 Shell, basics 
+
 ![GitHub stars](https://img.shields.io/github/stars/yiradesat/alx-system_engineering-devops?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/yiradesat/alx-system_engineering-devops?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/yiradesat/alx-system_engineering-devops?style=flat-square)
 
 Hello and welcome to my journey in the world of shell scripting! As a software engineering student in the ALX program, I was given this project to help me learn and master the basics of shell scripting. This subdirectory, 0x00-shell_basics, is dedicated to providing tutorials, exercises, and resources to help you (and me!) become a shell scripting pro.
