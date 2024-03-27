@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #A script that connects to server 54.87.179.161 using key located at ~/.ssh/school
 ssh ubuntu@54.87.179.161 -i ~/.ssh/school
 
