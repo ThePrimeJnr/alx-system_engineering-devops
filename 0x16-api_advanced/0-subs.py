@@ -15,11 +15,11 @@ def number_of_subscribers(subreddit: str) -> int:
     """
     response = requests.get(
         "https://www.reddit.com/r/{}/about.json".format(subreddit),
-        headers={"User-Agent": "Google Chrome Version 81.0.4044.138"},
+        headers={"User-Agent": "Google Chrome Version 81.0.4044.129"},
     )
 
     if response.status_code == 200:
         data = response.json()
-        if "data" in data and "subscribers" in data["data"]:
-            return data["data"]["subscribers"]
+        if "data" in data and "subscribers" in data.get("data"):
+            return data.get("data").get("subscribers")
     return 0
